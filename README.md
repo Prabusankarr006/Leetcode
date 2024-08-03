@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
