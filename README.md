@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/Prabusankarr006/Leetcode/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prabusankarr006/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Prabusankarr006/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
