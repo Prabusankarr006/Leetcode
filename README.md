@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prabusankarr006/Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Prabusankarr006/Leetcode/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prabusankarr006/Leetcode/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Prabusankarr006/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
