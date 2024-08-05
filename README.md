@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Prabusankarr006/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Prabusankarr006/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
