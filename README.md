@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
+| [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Prabusankarr006/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Prabusankarr006/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0125-valid-palindrome) |
+| [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prabusankarr006/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prabusankarr006/Leetcode/tree/master/0036-valid-sudoku) |
 | [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
+## Sorting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
