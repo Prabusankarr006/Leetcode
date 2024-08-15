@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
 | [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -94,8 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prabusankarr006/Leetcode/tree/master/0029-divide-two-integers) |
 | [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
