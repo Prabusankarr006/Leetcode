@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prabusankarr006/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prabusankarr006/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
+| [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prabusankarr006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Prabusankarr006/Leetcode/tree/master/0029-divide-two-integers) |
+| [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prabusankarr006/Leetcode/tree/master/0036-valid-sudoku) |
+| [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 ## Matrix
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prabusankarr006/Leetcode/tree/master/0029-divide-two-integers) |
 | [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
