@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prabusankarr006/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prabusankarr006/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
+| [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prabusankarr006/Leetcode/tree/master/0029-divide-two-integers) |
+| [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
 <!---LeetCode Topics End-->
