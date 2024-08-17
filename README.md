@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prabusankarr006/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Prabusankarr006/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
@@ -121,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
