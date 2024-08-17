@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Prabusankarr006/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prabusankarr006/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Prabusankarr006/Leetcode/tree/master/0200-number-of-islands) |
+| [0518-coin-change-ii](https://github.com/Prabusankarr006/Leetcode/tree/master/0518-coin-change-ii) |
 | [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prabusankarr006/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prabusankarr006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Prabusankarr006/Leetcode/tree/master/0518-coin-change-ii) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
 |  |
