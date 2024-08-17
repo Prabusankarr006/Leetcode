@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prabusankarr006/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prabusankarr006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prabusankarr006/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prabusankarr006/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Prabusankarr006/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Prabusankarr006/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0125-valid-palindrome) |
