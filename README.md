@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prabusankarr006/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prabusankarr006/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/Prabusankarr006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Prabusankarr006/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prabusankarr006/Leetcode/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prabusankarr006/Leetcode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Prabusankarr006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0778-reorganize-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0778-reorganize-string) |
 ## Matrix
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prabusankarr006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Prabusankarr006/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
