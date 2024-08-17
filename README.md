@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prabusankarr006/Leetcode/tree/master/0055-jump-game) |
 | [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Prabusankarr006/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Prabusankarr006/Leetcode/tree/master/0189-rotate-array) |
 | [1835-decode-xored-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Dynamic Programming
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Prabusankarr006/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Prabusankarr006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prabusankarr006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Prabusankarr006/Leetcode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Prabusankarr006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Prabusankarr006/Leetcode/tree/master/0029-divide-two-integers) |
 | [0149-max-points-on-a-line](https://github.com/Prabusankarr006/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/Prabusankarr006/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
